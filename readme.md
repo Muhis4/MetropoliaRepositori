@@ -5,4 +5,4 @@ mod02
 - Olen tehnyt Peliprojekti folderi ja lisänyt sinne Game scripti ja readme.
 
 mod03
-- Tein 4 1-4 tehtävät
+- Tein 4 1-4 tehtävät. Jä sitten tein vielä 5.1-3 tehtävät.
