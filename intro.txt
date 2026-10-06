@@ -1,0 +1,4 @@
+This is game about you taking care of your cat Mimi. She's no ordinary cat, she's a golden one!
+Everytime you pet her, she will give you gold which you can spend at the shop to buy her toys or food.
+Make her as happy as you can in order to get more gold.
+Good luck!

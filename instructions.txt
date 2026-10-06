@@ -1,0 +1,6 @@
+You need to keep the cat's parameters above zero, otherwise the police will take her away from you.
+To do this, you need to feed her, play with her, and put her to sleep when necessary.
+You need to buy food at the store.
+Every time you pet her, you get gold, which you can spend in the store.
+
+To start, please press enter.
